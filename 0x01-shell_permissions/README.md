@@ -13,3 +13,4 @@
 12-directory_permissions Create a script that creates a directory and sets permission for it
 13-change_group change group ownership
 100-change_owner_and_group change owner and group of directory files
+101-symbolic_link_permissions script that changes the owner and the group
