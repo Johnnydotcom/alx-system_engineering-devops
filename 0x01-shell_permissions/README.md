@@ -6,3 +6,4 @@
 5-execute gives owner of file executing permission
 6-multiple_permissions gives script that adds execute permission to the owner and the group owner
 7-everybody script that adds execution permission to the owner, the group owner and the other users
+8-James_Bond script that sets the permission to the file
