@@ -4,3 +4,4 @@
 3-new_owner changes the ownership of a file
 4-empty creates an empty file
 5-execute gives owner of file executing permission
+6-multiple_permissions gives script that adds execute permission to the owner and the group owner
