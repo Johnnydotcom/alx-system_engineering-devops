@@ -8,3 +8,6 @@
 7-everybody script that adds execution permission to the owner, the group owner and the other users
 8-James_Bond script that sets the permission to the file
 9-John_Doe script that sets the mode of permissions
+10-10-mirror_permissions mirror permissions
+11-directories_permissions  script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-directory_permissions Create a script that creates a directory and sets permission for it
