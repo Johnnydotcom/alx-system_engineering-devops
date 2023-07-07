@@ -11,3 +11,4 @@ Shell basics
 9-firstdirdeletion Delete the directory
 10-back script that changes the working directory to the previous one
 11-lists script that lists all files
+12-file_type script that prints the type of the file named iamafile
