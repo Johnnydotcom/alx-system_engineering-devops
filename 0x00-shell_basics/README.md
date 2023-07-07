@@ -10,3 +10,4 @@ Shell basics
 8-firstdelete Delete the file betty
 9-firstdirdeletion Delete the directory
 10-back script that changes the working directory to the previous one
+11-lists script that lists all files
